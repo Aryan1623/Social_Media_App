@@ -1,0 +1,7 @@
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50vw;
+    height: 100vh; /* Set container height to fill the viewport */
+  }
